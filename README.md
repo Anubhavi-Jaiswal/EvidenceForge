@@ -49,6 +49,4 @@ Verifier: accept only a finding whose cited repository-relative location exists.
 
 Static inspection can miss semantic business-logic bugs. Hot take: reliable agents come less from adding agents than from making every claim cheaply falsifiable by a human.
 
-## Competition provenance
 
-Created for the micro1 Agentic Workflows Hackathon. The project code, fixtures, prompts, evaluation, and documentation were created during the competition; Python standard-library components pre-existed.
